@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 default_args = {
     'owner': 'refaverama',
-    'start_date': datetime(2024,03,04),
+    'start_date': datetime(2024,3,4),
     'catchup': False
 }
 
